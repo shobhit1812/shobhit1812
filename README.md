@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
 <h3 align="center">MERN Developer and CS undergrad from India who writes clean, elegant and efficient code.</h3>
-<hr></hr>
+<hr/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on [Digital Site: An ecommerce website](https://github.com/shobhit1812/Digital-Site-An-ecommerce-app)
@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit1812&show_icons=true&locale=en&layout=compact" alt="shobhit1812" /></p>
 
-<hr></hr>
+<hr/>
 <h3 alighn="left">:sparkles: Some of the Projects I've built so far</h3>
 <p>:point_down:</p>
