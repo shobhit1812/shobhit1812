@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
-<h3 align="center">MERN Developer and CS undergrad from India who writes clean, elegant and efficient code.</h3>
-<hr/>
+<h3 align="center">MERN Developer and CS undergrad from India who writes clean, elegant and efficient code.
+  <br>
+</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on [Digital Site: An ecommerce website](https://github.com/shobhit1812/Digital-Site-An-ecommerce-app)
