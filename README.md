@@ -6,11 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on [Digital Site: An ecommerce website](https://github.com/shobhit1812/Digital-Site-An-ecommerce-app)
-
 - 🌱 I’m currently learning **React-redux, javascript, & Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at https://shobhitnautiyal.vercel.app/
+- 👨‍💻 Check out my portfolio at https://shobhitnautiyal.vercel.app/
 
 - :email: How to reach me **shobhit.nautiyal99@gmail.com**
 
