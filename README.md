@@ -67,7 +67,7 @@ Algorithm** - 👨‍💻 Check out my portfolio at <https://shobhitnautiyal.ver
 
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="\_blank"
+      target="_blank"
       rel="noreferrer"
     >
       <img
