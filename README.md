@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js - The React Framework, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://shobhitnautiyal.vercel.app/project](https://shobhitnautiyal.vercel.app/project)
+- 👨‍💻 All of my projects are available at [https://shobhitnautiyal.vercel.app/project](https://shobhitnautiyal.in/project)
 
 - 📫 How to reach me **shobhit.nautiyal99@gmail.com**
 
